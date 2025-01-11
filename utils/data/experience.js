@@ -1,9 +1,9 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Student',
-    company: "BVM.",
-    duration: "(2022 - Present)"
+    title: 'Flutter Developer Intern',
+    company: "TechnoGuide Infosoft Pvt. Ltd.",
+    duration: "(June 2024)"
   },
   
   
