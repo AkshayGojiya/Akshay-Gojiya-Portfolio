@@ -13,6 +13,9 @@ export const metadata = {
   title: "Portfolio of Akshay Gojiya - Software Developer",
   description:
     "This is the portfolio of Akshay Gojiya. I am a full stack developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+  verification: {
+    google: "jD9tt6U6KCtbTTyLg07pLswK96vsMM-Zg8XR8aNuZI0",
+  },
 };
 
 export default function RootLayout({ children }) {
